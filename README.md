@@ -7,15 +7,20 @@ CONDITION FOR VERIFICATION IS IT SAFE
 3. Element should not in its box
 
 link : http://127.0.0.1:5501/index.html
+
 RAW INPUT (VALID)
 ![Screenshot 2023-06-04 190115](https://github.com/dpkumar2001/Sudoku_solver/assets/113341856/4c5020fc-e6bd-45cb-82ce-c090fb3d2a63)
+
 OUTPUT
 ![Screenshot 2023-06-04 190245](https://github.com/dpkumar2001/Sudoku_solver/assets/113341856/58872f5b-83c6-4484-bb6b-aa4ec6fa0ead)
 
 INVALID INPUT
+
 COLUMN
 ![sodoku5](https://github.com/dpkumar2001/Sudoku_solver/assets/113341856/d5e3361c-0d2f-4a8f-9443-0f9aefafda2b)
+
 ROW
 ![sudoku6](https://github.com/dpkumar2001/Sudoku_solver/assets/113341856/22fb3e58-4173-48c5-ba71-0d4ba347d855)
+
 BOX
 ![Screenshot 2023-06-04 191131](https://github.com/dpkumar2001/Sudoku_solver/assets/113341856/7366b855-41c7-4f62-8e02-c6f77dd3b31e)
